@@ -1,0 +1,6 @@
+{
+  "env": {
+    "other things in here": "etc",
+    "JWT_KEY": "secret"
+  }
+}
